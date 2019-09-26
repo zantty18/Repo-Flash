@@ -1,0 +1,1 @@
+C:\SAGKR-IF9\DATACOT\vfp9.exe equipo.prg "EQUIPO 22"
